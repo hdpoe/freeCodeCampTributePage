@@ -1,0 +1,55 @@
+Notes about Dennis Ritchie:
+Contributions:
+
+Schooling:
+Dennis Ritchie graduated from Summit High School following which he then
+attended and graduated from Harvard in both Physics and Applied Mathematics
+1963 and following it up with a PhD Mathematics five years later.[1]
+
+Career:
+Ritchie started at Bell Labs in 1967 a research division of the American
+Telephone and Telegraphy Company. This company went through numerous changes
+in name and ownership. However in Ritchie's own words, "Bell Labs has remained
+a remarkably good place to do work that has enduring impact over the long run,
+no matter what they compnay, the courts the PR types or upper management
+decided should be our name and logo on a given day or year."[2]
+
+Accomplishments: 
+
+The C programming language
+Of the two greats achievements of Dennis Ritchie the first was the C
+programming language. Many in this day and age of Object Orientied programming
+and virtual machines dismiss the C programming language as a primitive
+unwieldy levithan, best suited for the days of the Roman Colissieum and
+Stonehenge. What these pompus jack wagons fail to understand is that there was
+a time in computing before we had the luxury of abstractions, and automatic
+garbage collection, that there was a time when as programmers we had to work
+with raw pointers and memory allocation. C is like the P-51 Mustang or the
+Tommy Gun, if they were to be matched against the weapons of today they
+wouldn't be able to hold their own for 20 seconds, but they were solid
+reliable, and they were used by the men that saved the world from darkness.
+Thats what C was, a cross platform language, that could compile on multiple
+architectures, a language that provided some abstraction beyond mnemonics for
+raw machine instructions. Every major modern language dervies its syntax and
+structure from C, it is the grandfather of all major languages. Without C
+there would have been no JavaScript, Java, Python, or C++. Without C we
+would've been stuck with Pascal or BASIC as the progenitor to the languages we
+use know today. All of this works comes because of the work of Ken Thompson
+and Dennis Ritchie.
+
+The Unix Operating System
+With just the C programming language under his belt Dennis Ritchie would earn
+his place among the annals of great programmers; however his other great
+accomplishemnt, the creation of the Unix Operating System. The Unix Operating
+System is the mostly widely used operating system in the world today. It runs
+the servers that power the worlds most used websites, the mobile devices
+carried in people's pocket, the devices that run the internet backbone, all
+derivied from the Unix operating system. If there were no Dennis Ritchie and
+no Unix OS the only major player in the OS game would be Microsoft, imagine a
+world with Windows ruling as the undisputed lord or all personal computing
+devices. The operating system that powers the Apple watch, and the Google
+servers, all derivatives of Unix. 
+
+In conclusion Dennis Ritchie is a hero of the modern age, the herald of the
+future, the pioneer of the information age. We are who we are today because we
+stand on the shoulders of giants, and one of the greatest is Dennis Rictchie.
